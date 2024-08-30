@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Alana Braga
 
-<!--
-**AlanaHBraga/AlanaHBraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedora Front-end** apaixonada por tecnologia e inovação. Meu foco principal está em projetos utilizando **TypeScript** e **Blazor (.NET)**, onde busco sempre criar interfaces de usuário eficientes, elegantes e de alto desempenho.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente trabalhando em projetos com **Blazor** e **TypeScript**
+- 🌱 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
+- 💬 Adoro discutir sobre **desenvolvimento web** e **design de interfaces**
+- 🌍 Localizada no Brasil, sempre disponível para colaborar em projetos desafiadores
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Front-end:** TypeScript, JavaScript, HTML5, CSS3
+- **Frameworks:** Blazor (.NET), React, Bootstrap
+- **Ferramentas de Desenvolvimento:** Git, Visual Studio Code, Visual Studio
+- **Outras Tecnologias:** C#, .NET Core
+
+## 🌟 Projetos em Destaque
+
+- [**Controle de Inventário de T.I**](#) - Um sistema de gerenciamento de inventário desenvolvido com Blazor, focado na simplicidade e eficiência.
+- [**Projeto TypeScript**](#) - Exemplos de boas práticas e arquitetura usando TypeScript para desenvolvimento front-end moderno.
+
+## 🤝 Vamos Conectar!
+
+- [LinkedIn](#) 
+- [Email](mailto:seuemail@example.com)
+
+Sempre à procura de novas oportunidades para aprender e colaborar. Fique à vontade para explorar meus repositórios e me enviar uma mensagem!
