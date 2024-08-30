@@ -23,7 +23,7 @@
 
 ## 🤝 Vamos Conectar!
 
-- [LinkedIn](#) 
-- [Email](mailto:seuemail@example.com)
+- [LinkedIn](#https://www.linkedin.com/in/alana-braga-213a76228/) 
+- [Email](mailto:alana.h.braga@icloud.com)
 
 Sempre à procura de novas oportunidades para aprender e colaborar. Fique à vontade para explorar meus repositórios e me enviar uma mensagem!
